@@ -1,0 +1,10 @@
+// ==UserScript==
+// @name         Mavenlink Discovery
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       Jacob Jimenez
+// @match        meridianlink.mavenlink.com/workspaces/*
+// @run-at       document-end
+// @require      file://c:/Users/jacobj/Documents/programming/tamper-monkey/mavenlink/discovery/src/discovery.js
+// ==/UserScript==
